@@ -119,4 +119,4 @@ echo
 
 echo "Now Your Termux Is Ready To Run," |lolcat
 
-#Make By TOXIC CYBER SECURITY By MD SAMIUR RAHMAN TANIM
+#Remake By TOXIC
