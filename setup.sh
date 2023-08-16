@@ -108,7 +108,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'MSRTanim' |lolcat
+figlet -f slant 'FB-KING-CYBER' |lolcat
 echo
 echo
 echo 
@@ -119,4 +119,4 @@ echo
 
 echo "Now Your Termux Is Ready To Run," |lolcat
 
-#Remake By MSRTanim
+#Remake By Mao2116
