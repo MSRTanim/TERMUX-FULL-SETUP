@@ -119,4 +119,4 @@ echo
 
 echo "Now Your Termux Is Ready To Run," |lolcat
 
-#Remake By TOXIC
+#Remake By MSRTanim
